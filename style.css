@@ -39,6 +39,15 @@ body {
 	border-style: groove;
 }
 
+.portfolio-item-ad {
+	position: relative;
+	background-color: #ff8181;
+	/* border-radius: 5px; */
+	padding: 20px;
+	border-style: groove;
+	border-color: #ff8181;
+}
+
 /* CSS for the portfolio item images */
 .portfolio-item img {
 	width: 100%;
@@ -46,6 +55,11 @@ body {
 }
 
 .portfolio-item-profile img {
+	width: 100%;
+	height: auto;
+}
+
+.portfolio-item-ad img {
 	width: 100%;
 	height: auto;
 }
