@@ -64,6 +64,20 @@ body {
 	height: auto;
 }
 
+.portfolio-item-project {
+	position: relative;
+	background-color: #91e5ff;
+	/* border-radius: 5px; */
+	padding: 20px;
+	border-style: groove;
+	border-color: #91e5ff;
+}
+
+.portfolio-item-project img {
+	width: 100%;
+	height: auto;
+}
+
 /* CSS for the portfolio item captions */
 .portfolio-item-caption {
 	font-size: 16px;
