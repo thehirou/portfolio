@@ -54,6 +54,18 @@ body {
 	height: auto;
 }
 
+.mobiletext{
+font-size: 30px;
+font-weight: 700;
+margin: 20px;
+}
+
+.mobilelink{
+font-size: 20px;
+font-weight: 700;
+margin: 20px;
+}
+
 .portfolio-item-profile img {
 	width: 100%;
 	height: auto;
@@ -137,6 +149,14 @@ body {
   background-color: #c4c4c4;
   border-style: groove;
   width: 30%;
+  margin: auto;
+}
+
+.parentMOBILE {
+  text-align: center;
+  background-color: #c4c4c4;
+  border-style: groove;
+  width: 80%;
   margin: auto;
 }
 
